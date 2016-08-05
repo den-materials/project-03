@@ -138,33 +138,31 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - Street Art (Ben)
+#### Group 1 - Concert Log
 
-* Anthony
-* Vanessa
-* Camila
-* Min
+* Kayce
+* Kyle
+* Louie
 
-#### Group 2 - Restaurant Connections (Brianna)
+#### Group 2 - List of Lists 
 
-* Matt L
-* Jen
-* Mike
-* Matt S
+* Mark
+* Abe
+* Holly
+* Jamie
 
-#### Group 3 - Language and Cultural Exchange (Annabelle)
+#### Group 3 - Spofity Local Music Discovery
 
-* Emilio
-* Kabah
-* Kate
-* Val
+* Maddy
+* Charlie
+* Matt
 
-#### Group 4 - Physical Therapy Tracker (Alex)
+#### Group 4 - Elections Tracker
 
-* Ben
-* Wayne
-* Sam
-* Michael
+* Nick
+* Monica
+* Alison
+* Greg
 
 ---
 
