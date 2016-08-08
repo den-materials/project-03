@@ -20,7 +20,7 @@
 
 ###### What is this project?
 
-For the second project, you will use your knowledge of front-end and back-end web development to produce a polished web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
+For the third project, you will use your knowledge of front-end and back-end web development to produce a polished web application that can be used by friends, family, or the wider online community -- and that will benefit your portfolio.
 
 **The objective of this project is to:**
 
@@ -39,7 +39,7 @@ For the second project, you will use your knowledge of front-end and back-end we
 
 ### Project Planning Deliverables
 
-**You must review the following with your instructional team BEFORE you start to code.**
+**You must review the following with your instructional team BEFORE lunch on Tuesday.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
 * **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a> or in some other organized format.
@@ -119,9 +119,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Monday, June 27** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Tuesday, August 9** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **Friday, July 1st** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Friday, August 12th** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -136,7 +136,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Project Groups
 
-###### Who are my group members and assigned instructor?
+###### Who are my group members?
 
 #### Group 1 - Concert Log
 
@@ -170,7 +170,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Friday, July 1st** starting at **10:30 AM**. Please follow these guidelines:
+Each group will present their project on **Friday, August 12nd** starting at **1:00 PM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 15 minutes.**
