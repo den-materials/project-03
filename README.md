@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - Rails Group Project
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - SEAN Group Project
 
 **Read this entire document before writing a line of code.**
 
@@ -28,8 +28,9 @@ For the third project, you will use your knowledge of front-end and back-end web
 * Plan and implement a larger scale project as part of a development team.
 * Integrate topics learned and experience gained in the course so far.
 * Showcase your abilities to potential employers, friends, family, and community members.
+* Create a product that serves a well-researched user ned
 
-**You will be working in groups of 4 for this project.**
+**You will be working in groups of 3 or 4 for this project.**
 
 ---
 
@@ -70,21 +71,22 @@ For the third project, you will use your knowledge of front-end and back-end web
 
 **Your app should have all of the following:**
 
-* **Rails:** Use Rails as the core framework for Ruby.
-* **PostgreSQL:** Use PostgreSQL for your database in development and production.
+* **Node:** Use Node and Express as the core for the back end.
+* **Angular:** Use Angular as the framework for the front end.
+* **SQL:** Use a SQL implementation like MySQL or PostgreSQL for your database in development and production.
 * **Data Models** Include at least two data models with associations.
 * **Data Validation:** Your application should validate incoming data before entering it into the database.
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
-* **Testing:** Write unit tests for every model method.
+* **Testing:** Write at least one unit test for every model method.
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
-* **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
+* **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.  Make sure user flows utilize user and competitive research.
 * **Responsive Design:** Make sure your app looks great on a phone or tablet.
 * **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed. *Do not commit secret keys to GitHub!*
 
 ### Flexible Technical Requirements
 
-**Your app should have 3 out of the 5 following options:**
+**Your app should have 3 out of the 6 following options:**
 
 * **User Login** Make sure you have authentication *and* authorization.
 * **AJAX** Use AJAX to communicate with the server without reloading the page when appropriate.
@@ -119,9 +121,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Tuesday, August 9** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Thursday, January 5th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, what you can do better than your competition, complete with wireframes and findings from user research.
 
-* **Friday, August 12th** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, January 12th** - Completed project deliverables due and presentations!
 
 ---
 
@@ -138,31 +140,17 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - Concert Log
+#### Group 1 - TBD
 
-* Kayce
-* Kyle
-* Louie
+* TBD
 
-#### Group 2 - List of Lists 
+#### Group 2 - TBD
 
-* Mark
-* Abe
-* Holly
-* Jamie
+* TBD
 
-#### Group 3 - Spofity Local Music Discovery
+#### Group 3 - TBD
 
-* Maddy
-* Charlie
-* Matt
-
-#### Group 4 - Elections Tracker
-
-* Nick
-* Monica
-* Alison
-* Greg
+* TBD
 
 ---
 
@@ -170,7 +158,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Friday, August 12nd** starting at **1:00 PM**. Please follow these guidelines:
+Each group will present their project on **Thursday, January 12nd** starting at **1:30 PM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 15 minutes.**
@@ -183,11 +171,3 @@ Each group will present their project on **Friday, August 12nd** starting at **1
   * What parts of the project did you work on?
   * What was the most challenging aspect? Was there anything that was surprisingly easy to implement?
   * What did you learn?
-
----
-
-## Project Feedback
-
-###### How will we get feedback from instructors?
-
-See the [feedback doc](./project2-feedback.md) for details.
