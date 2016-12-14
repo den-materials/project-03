@@ -12,7 +12,6 @@
 * **[Submission](#submission):** How do we turn in the project?
 * **[Project Groups](#project-groups):** Who are my group members and assigned instructor?
 * **[Presentation Guidelines](#presentation-guidelines):** What should we cover during our presentation?
-* **[Project Feedback](#project-feedback):** How will we get feedback from instructors?
 
 ---
 
@@ -28,7 +27,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 * Plan and implement a larger scale project as part of a development team.
 * Integrate topics learned and experience gained in the course so far.
 * Showcase your abilities to potential employers, friends, family, and community members.
-* Create a product that serves a well-researched user ned
+* Create a product that serves a well-researched user need
 
 **You will be working in groups of 3 or 4 for this project.**
 
@@ -40,13 +39,14 @@ For the third project, you will use your knowledge of front-end and back-end web
 
 ### Project Planning Deliverables
 
-**You must review the following with your instructional team BEFORE lunch on Tuesday.**
+**You must review the following with your instructional team BEFORE lunch next Friday.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
 * **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a> or in some other organized format.
 * **Wireframes:** Sketch out what your core pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
 * **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
 * **Milestones:** Outline the milestones/sprints for your group.
+* **User Research:** Include the research results from product tests in your product design.
 * **Delegating Tasks:** What will each group member work on? Leverage everyone's strengths, and spend the majority of coding time pair programming.
 
 ### Completed Project Deliverables
@@ -56,6 +56,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 * A `README.md` file with the following:
   * Description: Short paragraph (2-3 sentences) "elevator pitch" describing what your project does
   * Wireframes and user stories
+  * User research conclusions from testing with at least 3 users
   * Link to Heroku hosted project
   * Technologies (languages, external libraries, APIs)
   * Wish List / Future Development
@@ -83,17 +84,17 @@ For the third project, you will use your knowledge of front-end and back-end web
 * **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.  Make sure user flows utilize user and competitive research.
 * **Responsive Design:** Make sure your app looks great on a phone or tablet.
 * **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed. *Do not commit secret keys to GitHub!*
+* **User Login** Make sure you have authentication *and* authorization.
 
 ### Flexible Technical Requirements
 
-**Your app should have 3 out of the 6 following options:**
+**Your app should have at least 3 out of the 5 following options:**
 
-* **User Login** Make sure you have authentication *and* authorization.
 * **AJAX** Use AJAX to communicate with the server without reloading the page when appropriate.
-* **External APIs** Use HTTParty or a third-party API back-end gem to integrate third-party data into your app.
+* **External APIs** Integrate third-party data into your app.
 * **Paperclip** Upload files with Paperclip.
-* **JavaScript & jQuery:** Add dynamic client-side behavior with event-driven functionality.
 * **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
+* **Angular Animations:** Use Angular to make page animations.
 
 ---
 
@@ -109,7 +110,6 @@ If you want to push yourself and learn something new, optionally consider doing 
 * **Text Messaging:** Use Twilio to send texts to your users (note: not free).
 * **Payment:** Use Stripe to allow your users to purchase from or donate to your site.
 * **Material Design:** Research the material design paradigm and apply it to ground your app's UI in the physical realm.
-* **CSS Animations:** Use jQuery or animate.css to include animations on your site.
 * **Accessibility:** Research web accessibility (e.g. for blind users), and apply accessibility principles to your app.
 * **Sessions:** Use sessions to store data for site visitors (who aren't necessarily logged in).
 * **Search:** Build a form that allows users to search your data, based on attributes. Consider looking into Elasticsearch to speed up queries.
@@ -131,7 +131,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### How do we turn in the project?
 
-* As you make code changes, **frequently commit and push to GitHub**.
+* As you make code changes, **frequently commit and push to GitHub**.  Submit the assignment (GitHub link) on Schoology on presentation day.
 
 
 ---
