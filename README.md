@@ -88,13 +88,14 @@ For the third project, you will use your knowledge of front-end and back-end web
 
 ### Flexible Technical Requirements
 
-**Your app should have at least 3 out of the 5 following options:**
+**Your app should have at least 3 out of the 6 following options:**
 
 * **AJAX** Use AJAX to communicate with the server without reloading the page when appropriate.
 * **External APIs** Integrate third-party data into your app.
 * **Paperclip** Upload files with Paperclip.
 * **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
 * **Angular Animations:** Use Angular to make page animations.
+* **ES6:** Use the newest production version of Javascript to DRY out and improve your code.
 
 ---
 
