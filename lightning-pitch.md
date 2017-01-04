@@ -2,7 +2,7 @@
 
 For Project 3, you will be working in groups of 3 or 4 to build a SEAN-stack application.
 
-The instructional team will choose three project ideas from the class to determine the three groups. Everyone will pitch an idea for Project 3. After hearing the pitches, you'll rank the ideas in order of preference. We'll use these preferences to pick the three project ideas and put together the groups.
+Everyone will pitch an idea for Project 3. After hearing the pitches, you'll rank the ideas in order of preference. We'll use these preferences to pick the three project ideas and put together the groups.
 
 **When you pitch to the class, please follow these guidelines:**
 
