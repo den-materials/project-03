@@ -79,7 +79,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 * **Data Validation:** Your application should validate incoming data before entering it into the database.
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
 * **Testing:** Write at least two unit tests for every model.
-* **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
+* **Views:** Use **partials**/**templates** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
 * **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.  Make sure user flows utilize user and competitive research.
 * **Responsive Design:** Make sure your app looks great on a phone or tablet.
@@ -141,17 +141,24 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - TBD
+#### Group 1 - Movie Library
 
-* TBD
+* Brian
+* Kevin
+* Erik
 
-#### Group 2 - TBD
+#### Group 2 - Weather App
 
-* TBD
+* Larry
+* Merry
+* Guy
+* Micah
 
-#### Group 3 - TBD
+#### Group 3 - Travel Planner
 
-* TBD
+* Nate
+* Clay
+* Gisella
 
 ---
 
