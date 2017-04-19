@@ -29,7 +29,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 * Showcase your abilities to potential employers, friends, family, and community members.
 * Create a product that serves a well-researched user need
 
-**You will be working in groups of 3 or 4 for this project.**
+**You will be working in squads of 3 for this project.**
 
 ---
 
@@ -122,9 +122,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Thursday, January 5th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, what you can do better than your competition, complete with wireframes and findings from user research.
+* **Wednesday, April 26th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
 
-* **Thursday, January 12th** - Completed project deliverables due and presentations!
+* **Monday, May 15th** - Completed project deliverables due and presentations!
 
 ---
 
@@ -141,24 +141,29 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - Movie Library
+#### Group 1 - TBD
 
-* Brian
-* Kevin
-* Erik
+* Person
+* Person
+* Person
 
-#### Group 2 - Weather App
+#### Group 2 - TBD
 
-* Larry
-* Merry
-* Guy
-* Micah
+* Person
+* Person
+* Person
 
-#### Group 3 - Travel Planner
+#### Group 3 - TBD
 
-* Nate
-* Clay
-* Gisella
+* Person
+* Person
+* Person
+
+#### Group 4 - TBD
+
+* Person
+* Person
+* Person
 
 ---
 
@@ -166,7 +171,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Thursday, January 12nd** starting at **1:30 PM**. Please follow these guidelines:
+Each group will present their project on **Monday, May 15th** starting at **1:30 PM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 15 minutes.**
