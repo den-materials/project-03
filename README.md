@@ -141,29 +141,29 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - TBD
+#### Group 1 - Denver Drinx
 
-* Person
-* Person
-* Person
+* Jess
+* Cam
+* Nate
 
-#### Group 2 - TBD
+#### Group 2 - Foodie Foodie Truck Truck
 
-* Person
-* Person
-* Person
+* Troy
+* Alexi
+* Cole
 
-#### Group 3 - TBD
+#### Group 3 - Fish Happens
 
-* Person
-* Person
-* Person
+* Tyler
+* Alex
+* Bobby
 
-#### Group 4 - TBD
+#### Group 4 - Bystander Buddy
 
-* Person
-* Person
-* Person
+* Jacy
+* Taylor
+* Billy
 
 ---
 
@@ -174,6 +174,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 Each group will present their project on **Monday, May 15th** starting at **1:30 PM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
+* Your presentation should also include the **results** of your user research, and how that drove your development.
 * **Maximum 15 minutes.**
 * **Minimum 5 slides.** Slides should include:
   * Wireframes
