@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - SEAN Group Project
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - SEAN Stack Group Project
 
 **Read this entire document before writing a line of code.**
 
@@ -29,7 +29,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 * Showcase your abilities to potential employers, friends, family, and community members.
 * Create a product that serves a well-researched user need
 
-**You will be working in squads of 3 for this project.**
+**You will be working in squads of 4 or 5 for this project.**
 
 ---
 
@@ -95,7 +95,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 * **Paperclip** Upload files with Paperclip.
 * **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
 * **Angular Animations:** Use Angular to make page animations.
-* **ES6:** Use the newest production version of Javascript to DRY out and improve your code.
+* **TypeScript:** Use TypeScript to DRY out and improve your code.  This means a significant use of ES6 features like arrow functions and default parameters, as well as setting types for a significant amount of your variables.
 
 ---
 
@@ -122,9 +122,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Wednesday, April 26th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
+* **Friday, August 11th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
 
-* **Monday, May 15th** - Completed project deliverables due and presentations!
+* **TBD, Week of August 28th** - Completed project deliverables due and presentations!
 
 ---
 
@@ -141,29 +141,21 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - Denver Drinx
+#### Group 1 - TBD
 
-* Jess
-* Cam
-* Nate
+TBD
 
-#### Group 2 - Foodie Foodie Truck Truck
+#### Group 2 - TBD
 
-* Troy
-* Alexi
-* Cole
+TBD
 
-#### Group 3 - Fish Happens
+#### Group 3 - TBD
 
-* Tyler
-* Alex
-* Bobby
+TBD
 
-#### Group 4 - Bystander Buddy
+#### Group 4 - TBD
 
-* Jacy
-* Taylor
-* Billy
+TBD
 
 ---
 
@@ -171,7 +163,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Monday, May 15th** starting at **1:30 PM**. Please follow these guidelines:
+Each group will present their project on **Presentation Day TBD** starting at **TBD**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * Your presentation should also include the **results** of your user research, and how that drove your development.
