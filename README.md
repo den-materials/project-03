@@ -90,12 +90,12 @@ For the third project, you will use your knowledge of front-end and back-end web
 
 **Your app should have at least 3 out of the 6 following options:**
 
-* **AJAX** Use AJAX to communicate with the server without reloading the page when appropriate.
-* **External APIs** Integrate third-party data into your app.
-* **Paperclip** Upload files with Paperclip.
-* **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
-* **Angular Animations:** Use Angular to make page animations.
-* **TypeScript:** Use TypeScript to DRY out and improve your code.  This means a significant use of ES6 features like arrow functions and default parameters, as well as setting types for a significant amount of your variables.
+* **External JSON/XML APIs** Integrate third-party data into your app.
+* **File upload** Upload files with Imgur, or similar API.
+* **Animations** Use Angular or CSS to make page animations.
+* **Device Hardware** Use a device's camera, geolocation, etc. with your app
+* **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
+* **Wild Card** Implement an outside-the-box idea (to be pitched/approved during Project Approval time)
 
 ---
 
@@ -105,7 +105,6 @@ For the third project, you will use your knowledge of front-end and back-end web
 
 If you want to push yourself and learn something new, optionally consider doing any of the following ideas. *Please talk to an instructor beforehand.*
 
-* **Charting:** Visualize your data! Possibilities include D3, Morris.js, Highcharts, Chart.js, and Google Charts.
 * **Job Scheduling:** Set up a job-scheduler like Sidekiq, Delayed Job, or Resque to queue actions that don't need to run immediately.
 * **Emails:** Use ActionMailer to send emails to your users.
 * **Text Messaging:** Use Twilio to send texts to your users (note: not free).
@@ -124,7 +123,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 * **Friday, August 11th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
 
-* **TBD, Week of August 28th** - Completed project deliverables due and presentations!
+* **Thursday, August 31st** - Completed project deliverables due and presentations!
 
 ---
 
@@ -141,21 +140,34 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - TBD
+#### Group 1 - Towny
 
-TBD
+- Zach
+- Lauren
+- Hung
+- Sam
 
-#### Group 2 - TBD
+#### Group 2 - Emo Support
 
-TBD
+- Mark
+- Jeremy
+- Chase
+- Corey
+- Roxann
 
-#### Group 3 - TBD
+#### Group 3 - Color Psychology
 
-TBD
+- Ian
+- Tyler
+- Connie
+- Jeff
 
-#### Group 4 - TBD
+#### Group 4 - Dine/Grub
 
-TBD
+- Marshall
+- Everett
+- David
+- Alex
 
 ---
 
@@ -163,7 +175,7 @@ TBD
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Presentation Day TBD** starting at **TBD**. Please follow these guidelines:
+Each group will present their project on **Thursday, August 31st** starting at **1:30pm**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * Your presentation should also include the **results** of your user research, and how that drove your development.
