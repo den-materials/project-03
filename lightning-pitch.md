@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 Idea Pitches
 
-For Project 3, you will be working in groups of 4 or 5 to build a SEAN-stack application.
+For Project 3, you will be working in groups of 3 or 4 to build a SEAN-stack application.
 
 Everyone will pitch an idea for Project 3. After hearing the pitches, you'll rank the ideas in order of preference. We'll use these preferences to pick the three project ideas and put together the groups.
 
