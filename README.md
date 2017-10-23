@@ -29,7 +29,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 * Showcase your abilities to potential employers, friends, family, and community members.
 * Create a product that serves a well-researched user need
 
-**You will be working in squads of 4 or 5 for this project.**
+**You will be working in squads of 3 or 4 for this project.**
 
 ---
 
@@ -121,9 +121,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Friday, August 11th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
+* **Friday, October 27th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
 
-* **Thursday, August 31st** - Completed project deliverables due and presentations!
+* **Wednesday, November 15th** - Completed project deliverables due and presentations!
 
 ---
 
@@ -140,34 +140,25 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - Towny
+#### Group 1 - TBD
 
-- Zach
-- Lauren
-- Hung
-- Sam
+- TBD
+- TBD
+- TBD
+- TBD
 
-#### Group 2 - Emo Support
+#### Group 2 - TBD
 
-- Mark
-- Jeremy
-- Chase
-- Corey
-- Roxann
+- TBD
+- TBD
+- TBD
+- TBD
 
-#### Group 3 - Color Psychology
+#### Group 3 - TBD
 
-- Ian
-- Tyler
-- Connie
-- Jeff
-
-#### Group 4 - Dine/Grub
-
-- Marshall
-- Everett
-- David
-- Alex
+- TBD
+- TBD
+- TBD
 
 ---
 
@@ -175,7 +166,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Thursday, August 31st** starting at **1:30pm**. Please follow these guidelines:
+Each group will present their project on **Wednesday, November 15th** starting at **1:30pm**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * Your presentation should also include the **results** of your user research, and how that drove your development.
