@@ -1,3 +1,5 @@
+<!-- Incorporate Agile/Daily Scrum methodology into this project. Perhaps assign roles of PO, Scrum Master, to the group ahead of time so they can experiment and feel what roles they might enjoy. -->
+
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - SEAN Stack Group Project
 
 **Read this entire document before writing a line of code.**
