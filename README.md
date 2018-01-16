@@ -41,7 +41,7 @@ For the third project, you will use your knowledge of front-end and back-end web
 
 ### Project Planning Deliverables
 
-**You must review the following with your instructional team BEFORE lunch next Friday.**
+**You must review the following with your instructional team BEFORE lunch on Thursday, 2/1.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
 * **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a> or in some other organized format.
@@ -123,9 +123,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Friday, October 27th** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
+* **Monday, January 22nd** - Project pitches.  You must be prepared to talk about the problem you are planning on solving, the proposed value added to your user, and what you can do better than your competition.
 
-* **Wednesday, November 15th** - Completed project deliverables due and presentations!
+* **Wednesday, February 7th** - Completed project deliverables due and presentations!
 
 ---
 
@@ -161,6 +161,21 @@ If you want to push yourself and learn something new, optionally consider doing 
 - TBD
 - TBD
 - TBD
+- TBD
+
+
+#### Group 4 - TBD
+
+- TBD
+- TBD
+- TBD
+
+
+#### Group 5 - TBD
+
+- TBD
+- TBD
+- TBD
 
 ---
 
@@ -168,7 +183,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Wednesday, November 15th** starting at **1:30pm**. Please follow these guidelines:
+Each group will present their project on **Wednesday, February 7th** starting at **11:00am**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * Your presentation should also include the **results** of your user research, and how that drove your development.
