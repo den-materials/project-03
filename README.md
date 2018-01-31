@@ -64,6 +64,21 @@ For the third project, you will use your knowledge of front-end and back-end web
   * Wish List / Future Development
   * Contributors (with links to their GitHub profiles)
 
+### Getting Started
+
+Not sure how to get started?  Before you dive into the project, you should divvy up the following roles amongst your squadmates:
+
+- **Product Manager** - responsible for user story deliverables--is the user getting what they want?
+- **Scrum Master** - responsible for unblocking and facilitating meetings--are the developers getting what they want?
+- **Lead Front End Dev** - when group cannot come to consensus on front-end question, they win--responsible for Angular app design
+- **Lead Back End Dev** - when group cannot come to consensus on back-end question, they win--responsible for ERDs
+- **Release Engineer** - responsible for merging everyone’s changes into master, also usually responsible for Heroku/deployment
+- **UX Lead** - responsible for organizing user interviews and testing, as well as wireframes and general app design
+
+Feel free to add more to this as you need, but you should have a point person for each of these roles (some people will have two roles, but try not to give too many to one person).
+
+Then have a look at [this document](https://github.com/den-wdi-3/week9_secondPass/blob/master/Project3.md), and take charge of the setup pieces for your role.
+
 ---
 
 ## Technical Requirements
@@ -142,40 +157,38 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members?
 
-#### Group 1 - TBD
+#### Group 1 - RTD App
 
-- TBD
-- TBD
-- TBD
-- TBD
+- Brian
+- Jason
+- Mark
+- Chad
 
-#### Group 2 - TBD
+#### Group 2 - Mtn Pine
 
-- TBD
-- TBD
-- TBD
-- TBD
+- Josh
+- Aaron
+- Ricky
 
-#### Group 3 - TBD
+#### Group 3 - Video Game Aggregator
 
-- TBD
-- TBD
-- TBD
-- TBD
+- Matt
+- Will
+- RJ
 
+#### Group 4 - RPG Fitness
 
-#### Group 4 - TBD
+- Patrick
+- Laura
+- Kevin
+- Sassan
 
-- TBD
-- TBD
-- TBD
+#### Group 5 - Health Blog and Sales
 
-
-#### Group 5 - TBD
-
-- TBD
-- TBD
-- TBD
+- Milad
+- Stevano
+- Jin
+- Remy
 
 ---
 
