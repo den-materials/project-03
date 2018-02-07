@@ -201,7 +201,7 @@ Each group will present their project on **Wednesday, February 7th** starting at
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * Your presentation should also include the **results** of your user research, and how that drove your development.
 * **Maximum 15 minutes.**
-* **Minimum 5 slides.** Slides should include:
+* **Minimum 5 visual aids.** Visual aids should include:
   * Wireframes
   * User stories
   * ERDs
